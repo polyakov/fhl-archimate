@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reporting - Procurement "
+    id="id-94b3ccc9538342a9a5904d96788bc857"
+    documentation="The process associated with producing the consolidated data displaying of procurement activities for goods, services and works, for internal or external purposes, including among others but not exclusively, supply sources, suppliers and contract management, expenses and payments, and markets assessments results. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="09.02"/>
+</archimate:BusinessProcess>

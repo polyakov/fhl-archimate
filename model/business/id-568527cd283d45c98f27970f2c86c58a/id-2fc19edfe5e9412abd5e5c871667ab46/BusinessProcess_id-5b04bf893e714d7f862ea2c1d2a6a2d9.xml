@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Review and Update of Needs Assessment for goods, kits, services or works"
+    id="id-5b04bf893e714d7f862ea2c1d2a6a2d9"
+    documentation="The process associated with reviewing, updating the overall needs of goods, services of works, periodically or in a change of context (operational, environmental, or other reasons) and scheduling the other processes accordingly.&#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="01.02"/>
+</archimate:BusinessProcess>

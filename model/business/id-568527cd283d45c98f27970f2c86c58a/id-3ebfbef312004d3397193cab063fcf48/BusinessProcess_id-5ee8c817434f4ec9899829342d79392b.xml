@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Return/Closure"
+    id="id-5ee8c817434f4ec9899829342d79392b"
+    documentation="The process associated with return assets including return from closure of an activity and the re-assignement and transfer of assets including among others but not exclusively, closure planning, asset return validation, update of the asset tracking tool, update of the maintenance, repair and overhaul tool, coordination with warehouse and transport. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="07.10"/>
+</archimate:BusinessProcess>

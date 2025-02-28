@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Markets assessment of goods or kits "
+    id="id-c8082172039541de88679478fb1fdb36"
+    documentation="The process associated with assessing available supply sources for goods and kits in one or more markets, including among others but not exclusively, supplier information, quality assurance, framework agreements and negociated price list.">
+  <properties
+      key="Process ID"
+      value="02.02"/>
+</archimate:BusinessProcess>

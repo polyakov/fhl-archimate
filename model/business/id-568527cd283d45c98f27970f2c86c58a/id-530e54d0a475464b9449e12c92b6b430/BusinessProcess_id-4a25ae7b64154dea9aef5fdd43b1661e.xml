@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Audit"
+    id="id-4a25ae7b64154dea9aef5fdd43b1661e"
+    documentation="The process associated with the coordination between Supply Chain and Audit department to enable that needs are met through the supply chain, including among others but not exclusively, archiving policies, orders and invoices physical and electronic registration and filing, and transparency guidelines. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="08.10"/>
+</archimate:BusinessProcess>

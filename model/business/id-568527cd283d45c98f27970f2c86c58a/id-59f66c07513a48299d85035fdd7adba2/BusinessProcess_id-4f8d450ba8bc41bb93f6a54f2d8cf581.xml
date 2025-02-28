@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transport of People (Last-mile in-country transport)"
+    id="id-4f8d450ba8bc41bb93f6a54f2d8cf581"
+    documentation="The process associated with managing the transport of people in-country, including among others but not exclusively, selection of transport mode and route, security and safety measures, transport follow-up and human-resouces/admin formalities. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="04.04"/>
+</archimate:BusinessProcess>

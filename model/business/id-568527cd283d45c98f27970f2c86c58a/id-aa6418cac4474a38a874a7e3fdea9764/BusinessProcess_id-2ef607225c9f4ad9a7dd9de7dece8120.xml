@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stock transfer"
+    id="id-2ef607225c9f4ad9a7dd9de7dece8120"
+    documentation="The process associated with transfering goods within the warehouse or the NGO, including among others but not exclusively, the validation of the transfer, update of financial or project codification, physical transfer, and replenishement if needed. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="03.07"/>
+</archimate:BusinessProcess>

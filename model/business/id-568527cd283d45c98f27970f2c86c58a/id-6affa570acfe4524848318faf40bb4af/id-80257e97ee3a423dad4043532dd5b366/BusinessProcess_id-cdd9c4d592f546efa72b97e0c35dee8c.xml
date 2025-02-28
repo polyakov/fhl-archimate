@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procurement planning of goods or kits"
+    id="id-cdd9c4d592f546efa72b97e0c35dee8c"
+    documentation="The process associated with tactical management of procurement activities for goods and kits, including among others but not exclusively, supplier management, contract follow-up, market assement update schedules, procurement schedule, pipeline monitoring and coordination with Finance.&#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="02.01"/>
+</archimate:BusinessProcess>

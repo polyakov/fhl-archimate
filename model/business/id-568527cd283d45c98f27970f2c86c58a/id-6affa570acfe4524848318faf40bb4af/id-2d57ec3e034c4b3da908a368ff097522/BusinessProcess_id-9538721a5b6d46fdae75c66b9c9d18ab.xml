@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Purchase Order management for services or works"
+    id="id-9538721a5b6d46fdae75c66b9c9d18ab"
+    documentation="The process associated with receiving, creating, validating and issuing a purchase order for services and works, including among others but not exclusively, follow-up with suppliers, and the closing of the PO upon confirmation of service delivered.&#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="02.12"/>
+</archimate:BusinessProcess>

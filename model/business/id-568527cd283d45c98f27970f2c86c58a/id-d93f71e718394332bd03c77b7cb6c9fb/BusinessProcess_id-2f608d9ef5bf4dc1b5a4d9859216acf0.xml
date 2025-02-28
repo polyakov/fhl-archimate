@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Donations (outbound)"
+    id="id-2f608d9ef5bf4dc1b5a4d9859216acf0"
+    documentation="The process associated with releasing goods upon a donation request, including among others but not exclusively, creating and validating the donation request, generation of donation certificate, coordination with warehousing and transport, and closing the donation. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="05.05"/>
+</archimate:BusinessProcess>

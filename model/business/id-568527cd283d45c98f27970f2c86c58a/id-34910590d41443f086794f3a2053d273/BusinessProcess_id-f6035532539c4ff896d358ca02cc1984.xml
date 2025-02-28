@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loan return reception"
+    id="id-f6035532539c4ff896d358ca02cc1984"
+    documentation="The process associated with receving back in stock or in use loaned goods or assets, including among others but not exclusively, return validation, loan documentation closure, coordination with warehouse or asset management. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="06.04"/>
+</archimate:BusinessProcess>

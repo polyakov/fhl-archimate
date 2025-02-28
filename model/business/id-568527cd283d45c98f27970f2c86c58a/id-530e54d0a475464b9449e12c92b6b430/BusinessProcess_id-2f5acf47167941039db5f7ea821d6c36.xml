@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract Management "
+    id="id-2f5acf47167941039db5f7ea821d6c36"
+    documentation="The process associated with managing contract to enable that needs are met through the supply chain, including among others but not exclusively, legal counsel, suppplier, service provider and lease contract follow-up and electronic recording of contracts. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="08.05"/>
+</archimate:BusinessProcess>

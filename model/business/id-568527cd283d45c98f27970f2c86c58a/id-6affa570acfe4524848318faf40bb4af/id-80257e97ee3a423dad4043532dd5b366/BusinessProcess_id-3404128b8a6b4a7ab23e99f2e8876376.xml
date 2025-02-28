@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procurement method selection (goods and kits)"
+    id="id-3404128b8a6b4a7ab23e99f2e8876376"
+    documentation="The process associated with selecting and conducting the appropriate procurement method in line with procurement threshold for goods and kits, including among others but not exclusively,  direct purchase, one quote, waivers, request for quotations, tender process and Comparative Bid Analysis.">
+  <properties
+      key="Process ID"
+      value="02.03"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reconditionning "
+    id="id-346122ad3a6b4867996685f57521ffba"
+    documentation="The process associated with validating, recording and conducting the change of packaging of goods, storage of the reconditionned goods and stock cards update. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="03.04"/>
+</archimate:BusinessProcess>

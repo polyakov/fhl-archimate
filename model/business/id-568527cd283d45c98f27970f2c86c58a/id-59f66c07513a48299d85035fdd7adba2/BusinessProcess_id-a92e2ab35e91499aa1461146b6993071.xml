@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transport planning"
+    id="id-a92e2ab35e91499aa1461146b6993071"
+    documentation="The process associated with tactical management of transport activities, including among others but not exclusively, carriers and 3PL contract management, cargo consolidation, road security vigilance and local transport guideline establishement.&#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="04.01"/>
+</archimate:BusinessProcess>

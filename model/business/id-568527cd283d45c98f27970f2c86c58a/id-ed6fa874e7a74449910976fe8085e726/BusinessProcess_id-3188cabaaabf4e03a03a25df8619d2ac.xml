@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Donor Funding - Warehousing Tracking "
+    id="id-3188cabaaabf4e03a03a25df8619d2ac"
+    documentation="The process associated with linking donor funding data with warehousing activities along the supply chain and the organization's locations, including  goods' physical location, goods' electronic registration, reception, dispatch and shipping documents. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="10.03"/>
+</archimate:BusinessProcess>

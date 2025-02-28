@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Management "
+    id="id-c86f4381e93f45fda0d389724c99a210"
+    documentation="The process associated with data management to enable that needs are met through the supply chain, including among others but not exclusively, data recording policies, data quality management, ERP monitoring, data cleaning .">
+  <properties
+      key="Process ID"
+      value="08.03"/>
+</archimate:BusinessProcess>

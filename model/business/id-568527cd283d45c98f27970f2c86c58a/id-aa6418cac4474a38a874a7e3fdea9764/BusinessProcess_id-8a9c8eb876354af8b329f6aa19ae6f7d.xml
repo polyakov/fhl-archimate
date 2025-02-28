@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reception for direct delivery "
+    id="id-8a9c8eb876354af8b329f6aa19ae6f7d"
+    documentation="The process associated with the physical and electronic reception of goods intended for immidiate transfer, including among others but not exclusively, delivery and materials verifications, quality assurance, rejection of falty goods and handover for delivery. ">
+  <properties
+      key="Process ID"
+      value="03.03"/>
+</archimate:BusinessProcess>

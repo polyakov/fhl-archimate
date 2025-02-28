@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regulatory Compliance Management"
+    id="id-4cd901ab1c2247fba21589ecb04ab0af"
+    documentation="The process associated with the international and local regulatory frameworks follow-up to enable that needs are met through the supply chain, including among others but not exclusively, hiring local consel, guidelines follow-up, customs agreement, MoU follow-up and operational context follow-up.">
+  <properties
+      key="Process ID"
+      value="08.06"/>
+</archimate:BusinessProcess>

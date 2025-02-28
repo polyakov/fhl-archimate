@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kits monitoring "
+    id="id-49956b1dcfa5489899280fde7ab6405e"
+    documentation="The process associated with managing the kits and its components in terms of maintenance and expirery, including among others but not exclusively, disposal and replenishement of expired components, and registration and maintenance of assets included in the kit. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="03.10"/>
+</archimate:BusinessProcess>

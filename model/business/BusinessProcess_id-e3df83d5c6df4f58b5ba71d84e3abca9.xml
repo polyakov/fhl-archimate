@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="04-Transport"
+    id="id-e3df83d5c6df4f58b5ba71d84e3abca9"
+    documentation="The processes associated with managing fleet, carriers and LSPs, selecting modes of transportation and routes, as well as placing/loading goods.&#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="04"/>
+</archimate:BusinessProcess>

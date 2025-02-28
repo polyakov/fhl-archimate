@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supplier Master"
+    id="id-2446e46411564b849b58a11c7b6728ab">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9f9b420499e0408d801bcdfb9623955c">
+    <bounds
+        x="338"
+        y="143"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-dbc41ae1d3644d34ae1786c79860d2f8.xml#id-dbc41ae1d3644d34ae1786c79860d2f8"/>
+  </children>
+</archimate:ArchimateDiagramModel>

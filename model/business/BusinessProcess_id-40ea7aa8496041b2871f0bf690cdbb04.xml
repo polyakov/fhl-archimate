@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="05-Distribution Donation Loan "
+    id="id-40ea7aa8496041b2871f0bf690cdbb04"
+    documentation="The processes associated with performing order management and order fulfillment activities, donations and loans.&#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="05"/>
+</archimate:BusinessProcess>

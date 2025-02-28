@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Warehousing planning"
+    id="id-cd57015352b74c629b618ae7d446350d"
+    documentation="The process associated with tactical management of warehousing activities, including among others but not exclusively, replenishement policies, threshold monitoring, warehouse data quality, physical storage space maintenance and monitoring, and local warehouse guideline establishement.">
+  <properties
+      key="Process ID"
+      value="03.01"/>
+</archimate:BusinessProcess>

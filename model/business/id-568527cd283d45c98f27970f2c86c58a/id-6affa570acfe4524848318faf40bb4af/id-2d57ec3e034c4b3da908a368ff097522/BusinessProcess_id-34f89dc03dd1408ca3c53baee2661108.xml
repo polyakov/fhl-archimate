@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Confirmation of service delivered "
+    id="id-34f89dc03dd1408ca3c53baee2661108"
+    documentation="The process associated with the electronic recording of a completed service (in opposition of goods or kits, where warehouse reception is linked to the PO update).">
+  <properties
+      key="Process ID"
+      value="02.13"/>
+</archimate:BusinessProcess>

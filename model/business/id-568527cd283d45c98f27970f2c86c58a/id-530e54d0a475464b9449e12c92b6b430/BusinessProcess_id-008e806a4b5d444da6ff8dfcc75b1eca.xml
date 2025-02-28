@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manage sector requirement"
+    id="id-008e806a4b5d444da6ff8dfcc75b1eca"
+    documentation="The process associated with managing the humanitarian sector requirements while managing the supply chain to enable that needs are met through the supply chain, including among others but not exclusively transparency requirements, accountability requirements, ethical requirements and sustainability requirements. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="08.01"/>
+</archimate:BusinessProcess>

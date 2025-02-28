@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consortium Funding - Procurement Tracking "
+    id="id-9545375ab768457c89253c99066ba9e6"
+    documentation="The process associated with linking consortium funding data with procurement activities across the multiple organizations involved, including mutualized payments, invoices, goods, services, works and assets.&#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="10.06"/>
+</archimate:BusinessProcess>

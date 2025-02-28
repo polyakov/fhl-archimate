@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Technical Logistic Process "
+    id="id-27ce2d3866554d79949fb125e3c6835f"
+    documentation="The process associated with the coordination between Supply Chain and Technical Logistic Processes such as Construction, Electrical, Water and Sanitization, to enable that needs are met through the supply chain. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="08.09"/>
+</archimate:BusinessProcess>

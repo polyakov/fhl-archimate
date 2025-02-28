@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Return received loan to owner"
+    id="id-1b4414f9b0b24ce182f4a0b3c2aae913"
+    documentation="The process associated with returning a received loan to the goods or asset owner, including among others but not exclusively, return validation, coordination with warehouse and transport, physical and electronic return, loan documentation update, loan closure. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="06.02"/>
+</archimate:BusinessProcess>

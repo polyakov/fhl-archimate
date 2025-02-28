@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stock disposal"
+    id="id-2951b1b22a414325bc6e0e0203c98878"
+    documentation="The process associated with the disposal of damaged or expired goods, including among others but not exclusively, the validation of disposal, quarantining of the goods, registration of official disposal authorization, disposal plan and recording of disposal. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="03.11"/>
+</archimate:BusinessProcess>

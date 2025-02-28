@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reception of goods or kits"
+    id="id-0273fe8e0f6b43b3b90372257e9c99d4"
+    documentation="The process associated with the physical and electronic reception of goods and kits, including among others but not exclusively, delivery and materials verifications, quality assurance, rejection of falty goods, storage of the goods and stock cards update. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="03.02"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset assignement "
+    id="id-c08537fd20c34d03b52a3401ad9ad4cf"
+    documentation="The process associated with allocating assets to a location, budget code and/or owner physically and electronically, including among others but not exclusively, registration authorization, asset register update, asset allocation update. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="07.03"/>
+</archimate:BusinessProcess>

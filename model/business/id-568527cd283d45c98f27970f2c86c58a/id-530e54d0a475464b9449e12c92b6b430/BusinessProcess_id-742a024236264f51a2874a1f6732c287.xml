@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Perfomance Management "
+    id="id-742a024236264f51a2874a1f6732c287"
+    documentation="The process associated with monitoring supply chain performance to enable that needs are met through the supply chain, including among others but not exclusively, KPI definition, production and follow-up, and corrective measures implementation. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="08.02"/>
+</archimate:BusinessProcess>

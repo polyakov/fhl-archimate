@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Invoice matching and payment (goods and kits)"
+    id="id-10eeeab798c04a52a881516741574b36"
+    documentation="The process associated with processing and validating an invoice for goods or kits, including among others but not exclusively, payment proceeding, PO closure and invoice closure. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="02.06"/>
+</archimate:BusinessProcess>

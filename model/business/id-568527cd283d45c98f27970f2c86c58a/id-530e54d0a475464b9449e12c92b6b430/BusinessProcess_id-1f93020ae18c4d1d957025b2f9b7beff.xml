@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Human Resources Management "
+    id="id-1f93020ae18c4d1d957025b2f9b7beff"
+    documentation="The process associated with managing human resources to enable that needs are met through the supply chain, including among others but not exclusively, training, recrutement and daily workers scheduling. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="08.04"/>
+</archimate:BusinessProcess>

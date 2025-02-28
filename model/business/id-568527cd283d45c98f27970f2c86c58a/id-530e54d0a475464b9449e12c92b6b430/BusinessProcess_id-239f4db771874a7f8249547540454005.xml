@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Finance Alignement Management"
+    id="id-239f4db771874a7f8249547540454005"
+    documentation="The process associated with the coordination between Finance and Supply Chain to enable that needs are met through the supply chain, including among others but not exclusively, order-inoice reconciliation, budget alignement, expenditure authorization guidelines and budget forecasting activities. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="08.08"/>
+</archimate:BusinessProcess>

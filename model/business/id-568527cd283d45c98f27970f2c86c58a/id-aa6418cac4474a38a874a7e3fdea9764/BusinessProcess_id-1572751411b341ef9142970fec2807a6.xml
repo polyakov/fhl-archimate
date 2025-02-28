@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Disassembling kits"
+    id="id-1572751411b341ef9142970fec2807a6"
+    documentation="The process associated with physically and electronically disassembling a kit into its components, including among others but not exclusively, the validation of the disassembling order, the review of the components details, the registration of the components, disposal of components, storage of components and update of stock cards. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="03.06"/>
+</archimate:BusinessProcess>

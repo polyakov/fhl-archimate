@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="06-Return Loan Closure"
+    id="id-06c9917e9ada4b828b39135f3e6ac879"
+    documentation="The processes associated with moving goods back from a customer through the supply chain to address defects in product, ordering, or to perform upkeep activities.&#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="06"/>
+</archimate:BusinessProcess>

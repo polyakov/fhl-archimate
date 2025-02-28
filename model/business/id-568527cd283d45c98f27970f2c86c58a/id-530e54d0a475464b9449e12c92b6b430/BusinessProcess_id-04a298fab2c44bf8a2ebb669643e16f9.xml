@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risk Management "
+    id="id-04a298fab2c44bf8a2ebb669643e16f9"
+    documentation="The process associated with risk management to enable that needs are met through the supply chain, including among others but not exclusively, risk assesment, establishement of avoidance and mitigation measures, contigency planning, and risk matrix follow-up. ">
+  <properties
+      key="Process ID"
+      value="08.07"/>
+</archimate:BusinessProcess>

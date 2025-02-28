@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Assembling kits"
+    id="id-8fdeb3c0c4a04a1ca51121241f0ed8c4"
+    documentation="The process associated with physically and electronically assembling a kit from its components, including among others but not exclusively, receiving the goods destined to be assembled as a kit, establishing the kit assembly plan, physical assembling of the kit, registering and storing the kit wih components details, updating stock cards. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="03.05"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset loan return"
+    id="id-e446c6984ece45eca09ee9d78c6e570a"
+    documentation="The process associated with the return of a loaned asset, including among others but not exclusively, loan return validation, coordination with transport, update of the asset tracking tool, update of the maintenance, repair and overhaul tool, the closure of the loan. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="07.07"/>
+</archimate:BusinessProcess>

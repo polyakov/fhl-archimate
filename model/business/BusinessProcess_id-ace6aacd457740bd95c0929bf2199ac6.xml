@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="03-Warehousing"
+    id="id-ace6aacd457740bd95c0929bf2199ac6"
+    documentation="The processes associated with storing and managing the inventory of goods or kits.">
+  <properties
+      key="Process ID"
+      value="03"/>
+</archimate:BusinessProcess>

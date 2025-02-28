@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset loan"
+    id="id-80160418a0b449758707b2cf67a1e54d"
+    documentation="The process associated with loaning an asset within the origanization or to an external partner, the returned of the asset beign contractually linked by a loan certicficate;  including among others but not exclusively, loan certificate creation, validation and registration, update of asset tracking tool, update of the maintenance, repair and overhaul tool, coordination with transport, and production of a loan certificate. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="07.06"/>
+</archimate:BusinessProcess>

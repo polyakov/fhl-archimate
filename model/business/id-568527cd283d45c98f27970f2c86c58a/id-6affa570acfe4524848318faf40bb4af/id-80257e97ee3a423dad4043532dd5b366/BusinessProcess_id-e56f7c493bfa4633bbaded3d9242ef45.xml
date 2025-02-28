@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Purchase Order management for goods or kits"
+    id="id-e56f7c493bfa4633bbaded3d9242ef45"
+    documentation="The process associated with receiving, creating, validating and issuing a purchase order for goods and kits, including among others but not exclusively, follow-up with suppliers, and the update of the PO upon reception in the warehouse. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="02.05"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External distribution"
+    id="id-cd22542f76784c7299ca7870c075f505"
+    documentation="The process associated with releasing goods to the distribution point(s) without intermediaries, including among others but not exclusively, validation order with warehouse, coordination of transport, goods reception at distribution site, delivery and material verification, quality insurance at distribution site and back order follow-up. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="05.03"/>
+</archimate:BusinessProcess>

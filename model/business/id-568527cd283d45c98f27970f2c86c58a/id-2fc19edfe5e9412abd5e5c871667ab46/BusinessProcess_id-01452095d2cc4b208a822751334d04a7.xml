@@ -1,0 +1,10 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Needs Assessment for goods, kits, services or works from program and/or operation management"
+    id="id-01452095d2cc4b208a822751334d04a7"
+    documentation="The process associated with obtaining an estimate of the overall needs of goods, services and works for a location and scheduling the other processes accordingly.">
+  <properties
+      key="Process ID"
+      value="01.01"/>
+  <properties/>
+</archimate:BusinessProcess>

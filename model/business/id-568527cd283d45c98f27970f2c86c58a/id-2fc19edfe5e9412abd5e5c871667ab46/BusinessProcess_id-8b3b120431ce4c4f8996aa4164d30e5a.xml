@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Order and Procurement Planning "
+    id="id-8b3b120431ce4c4f8996aa4164d30e5a"
+    documentation="The process associated with gathering and structuring the needs of goods, services and works into an order and procurement plan, with specific supply channels, time schedule and budget linkage. ">
+  <properties
+      key="Process ID"
+      value="01.03"/>
+</archimate:BusinessProcess>

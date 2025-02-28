@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Donor Funding Compliance"
+    id="id-5e5a24c661f34cebb94e72738e4eed36"
+    documentation="The process associated with registering donor funding compliance data in the system and linking those data to other elements activities along the supply chain and the organization's locations, goods, works, services, assets, purchase, and distribution. ">
+  <properties
+      key="Process ID"
+      value="10.01"/>
+</archimate:BusinessProcess>

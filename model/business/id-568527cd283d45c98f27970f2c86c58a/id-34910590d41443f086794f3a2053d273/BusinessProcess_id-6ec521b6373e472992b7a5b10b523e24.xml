@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Delivery return from distribution"
+    id="id-6ec521b6373e472992b7a5b10b523e24"
+    documentation="The process associated with organizing the return of damaged, excess, erroneous or non-compliant items from the distribution, including among others but not exclusively,  internal return documentation creation, coordination with warehouse and transport, delivery return recording. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="06.03"/>
+</archimate:BusinessProcess>

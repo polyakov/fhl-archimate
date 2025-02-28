@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Outsourced distribution "
+    id="id-72a7ad78afe94e43a4371501fae8ce78"
+    documentation="The process associated with releasing goods to the distribution point(s) through a third party, including among others but not exclusively, contracting the third party, physical and electronic handover of the goods, tracking completion of delivery, confirming completion of contract and proceding with payment to the third party. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="05.02"/>
+</archimate:BusinessProcess>

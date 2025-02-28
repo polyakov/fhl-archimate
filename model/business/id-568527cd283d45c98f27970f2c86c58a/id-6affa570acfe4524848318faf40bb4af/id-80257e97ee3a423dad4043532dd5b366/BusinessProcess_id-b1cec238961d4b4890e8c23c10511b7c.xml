@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procurement derogation validation (goods and kits)"
+    id="id-b1cec238961d4b4890e8c23c10511b7c"
+    documentation="The process associated with validating and recording a procurement derogation process for goods and kits, including among others but not exclusively, proof of supplier monopoly, justification of lead time urgency, headquarter electronic validation, and local regulations derogation. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="02.04"/>
+</archimate:BusinessProcess>

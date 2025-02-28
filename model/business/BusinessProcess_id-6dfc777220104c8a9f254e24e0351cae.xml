@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="07-Assets"
+    id="id-6dfc777220104c8a9f254e24e0351cae"
+    documentation="The processes associated with procuring, allocating, mantaining and monitoring assets required to operate the supply chain (assets include cars and fleet).&#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="07"/>
+</archimate:BusinessProcess>

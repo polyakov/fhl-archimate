@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="02-Procurement"
+    id="id-b0c05c57156e4f0d877b13a6de75d306"
+    documentation="The processes associated with ordering, delivery, receipt and transfer of:&#xD;&#xA;a. goods or kits,&#xD;&#xA;b. services or work.&#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="02"/>
+</archimate:BusinessProcess>

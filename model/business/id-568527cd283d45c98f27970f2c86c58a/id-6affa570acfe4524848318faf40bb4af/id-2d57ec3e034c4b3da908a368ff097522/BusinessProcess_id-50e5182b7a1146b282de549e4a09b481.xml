@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Procurement derogation validation (services and works)"
+    id="id-50e5182b7a1146b282de549e4a09b481"
+    documentation="The process associated with The process associated with validation and recording a procurement derogation process for services and works, including among others but not exclusively, proof of supplier monopoly, justification of lead time urgency, headquarter electronic validation, and local regulations derogation. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="02.11"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Donation (Request for donation of service or works)"
+    id="id-d0ba60849ba84730a2dba361fbbe62df"
+    documentation="The process associated with requesting a donation of services or works (executed for e.g. pro-bono) within the organization or to an external organization as a procurement method, including among others but not exclusively, identification of externation party and contract validation. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="02.15"/>
+</archimate:BusinessProcess>

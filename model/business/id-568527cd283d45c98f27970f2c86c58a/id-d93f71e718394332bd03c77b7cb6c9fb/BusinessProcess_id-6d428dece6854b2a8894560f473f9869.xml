@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plan delivery distribution"
+    id="id-6d428dece6854b2a8894560f473f9869"
+    documentation="The process associated with planning the release of goods at the distribution point(s), including among others but not exclusively, selection of distribution method, distribution schedule, coordination with warehouse and transport, defining methods for recording of distribution, and distribution compliance recording. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="05.01"/>
+</archimate:BusinessProcess>

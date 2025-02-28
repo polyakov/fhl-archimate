@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset disposal or auction"
+    id="id-69b5739f50a949458e2aa056e0d32caa"
+    documentation="The process associated with disposing or auctionning assets that are out of the asset management plan, including among others but not exclusively, disposal plan creation, asset disposal authorization, authority authorization, update of the asset tracking tool, update of the maintenance, repair and overhaul tool, closure of the disposal.">
+  <properties
+      key="Process ID"
+      value="07.09"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="10-Donor follow-up"
+    id="id-b48effc691b54456bf665fe1164d841c"
+    documentation="The processes associated with the management of donors funding: associating each good or service with a specific source of funding through the entire supply chain.&#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="10"/>
+</archimate:BusinessProcess>

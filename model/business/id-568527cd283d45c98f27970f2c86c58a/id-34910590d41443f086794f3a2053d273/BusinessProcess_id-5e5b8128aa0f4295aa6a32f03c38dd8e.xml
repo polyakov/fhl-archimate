@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Closure"
+    id="id-5e5b8128aa0f4295aa6a32f03c38dd8e"
+    documentation="The process associated with the closure of an activity and the re-allocation and transfer of goods, including among others but not exclusively, closure planning,  return validation, coordination with warehouse and transport. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="06.05"/>
+</archimate:BusinessProcess>

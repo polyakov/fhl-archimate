@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="01-Supply and Logistics Planning "
+    id="id-0ddc0fa356ff48fe8f48a285b1f7c215"
+    documentation="The processes associated with determining needs and actions to achieve supply chain objectives.">
+  <properties
+      key="Process ID"
+      value="01"/>
+</archimate:BusinessProcess>

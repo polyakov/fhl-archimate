@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stock count"
+    id="id-b34400ee94014cdc94fbc3e17ad165cf"
+    documentation="The process associated with stock reconciliation between physical count and electronic count, including among others but not exclusively, the physical and electronic preparation of the stock count, performing the physical count, recording counts and recounts, analyzing discrepancies, raising discrepancies report and updating stock cards. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="03.09"/>
+</archimate:BusinessProcess>

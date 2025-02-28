@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset reception and registration"
+    id="id-497be74b9b6048ada9075cfafbd2ba32"
+    documentation="The process associated with receiving and registering assets at a location, including among others but not exclusively, order retrieval, reception notice, donation certificate registration, and registration records.&#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="07.02"/>
+</archimate:BusinessProcess>

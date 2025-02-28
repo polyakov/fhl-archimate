@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Donor Funding - Aid Diversion avoidance and reporting "
+    id="id-00ecbaf9625043468b6c385f9d10839e"
+    documentation="The process associated with linking donor funding with corformity verification records for distribution in line with aid diversion avoidance policies, including among others but not exclusively, delivery and material verification, quality assurance, distribution site conformity, return and losses recording. ">
+  <properties
+      key="Process ID"
+      value="10.10"/>
+</archimate:BusinessProcess>

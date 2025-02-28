@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset transfer"
+    id="id-f896828237574e53815aa2768742ba99"
+    documentation="The process associated with the change of location or assignement of assets,  including among others but not exclusively, coordination with asset follow-up, transport and warehousing, waybill creation, asset tracking tool update. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="07.05"/>
+</archimate:BusinessProcess>

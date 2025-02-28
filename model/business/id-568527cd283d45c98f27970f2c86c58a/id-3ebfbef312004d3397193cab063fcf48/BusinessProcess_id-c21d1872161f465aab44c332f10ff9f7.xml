@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset donation"
+    id="id-c21d1872161f465aab44c332f10ff9f7"
+    documentation="The process associated with releasing an asset for donation, to another location within the organization or to a third party, including among others but not exclusively, donation validation, donation certificate creation, coordination with transport, update of the asset tracking tool, update of the maintenance, repair and overhaul tool, closure of the donation.">
+  <properties
+      key="Process ID"
+      value="07.08"/>
+</archimate:BusinessProcess>

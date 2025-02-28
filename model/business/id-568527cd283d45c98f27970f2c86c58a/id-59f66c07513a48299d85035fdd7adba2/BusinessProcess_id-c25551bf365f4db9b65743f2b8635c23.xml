@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inbound transport of goods"
+    id="id-c25551bf365f4db9b65743f2b8635c23"
+    documentation="The process associated with managing inboud transport of goods, including among others but not exclusively, selection of transport mode, route and incoterms, import custom procedure, green light to supplier, transport monitoring, physical transportation to warehouse and off-loading of goods. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="04.02"/>
+</archimate:BusinessProcess>

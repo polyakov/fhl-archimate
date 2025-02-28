@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Markets assessment of services or works "
+    id="id-d2c789fde67146e1a7a15a9c84bd781e"
+    documentation="The process associated with assessing available supply sources for services and works in one or more markets, including among others but not exclusively, supplier information, framework agreements and negociated price list.&#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="02.09"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reporting - Assets "
+    id="id-934672ddd40042d4be388c4a7c5efe99"
+    documentation="The process associated with producing the consolidated data displaying of asset management activities, for internal or external purposes, including among others but not exclusively, assets management plan, assets allocation, assets valuation, maintenance follow-up, assets donations, loans and disposal report. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="09.04"/>
+</archimate:BusinessProcess>

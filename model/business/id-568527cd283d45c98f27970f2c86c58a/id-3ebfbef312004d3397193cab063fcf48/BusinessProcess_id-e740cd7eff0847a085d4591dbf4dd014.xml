@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset follow-up and maintenance"
+    id="id-e740cd7eff0847a085d4591dbf4dd014"
+    documentation="The process associated with the maintenance and overhaul of assets in use and/or in stock, including among others but not exclusively, asset tracking and recording, asset periodical reconciliation, maintenance, repair and overhaul scheduling, recording and follow-up. ">
+  <properties
+      key="Process ID"
+      value="07.04"/>
+</archimate:BusinessProcess>

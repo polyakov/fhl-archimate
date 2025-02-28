@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="08-Support "
+    id="id-d2a34f371cc342a1a56826ff3ddf44b6"
+    documentation="The processes associated with establishing, maintaining and monitoring support resources.&#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="08"/>
+</archimate:BusinessProcess>

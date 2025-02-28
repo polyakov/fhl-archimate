@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset Management planning "
+    id="id-7c1e384e881f49aabdae72be1fdd112a"
+    documentation="The process associated with planning the management, procurement, maintenance and disposals of assets, including among others but not exclusively, asset procurement guidelines, schedules and financial process, asset maintenance, overhaul policies and scheduling, as well as assets disposal policies and scheduling. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="07.01"/>
+</archimate:BusinessProcess>

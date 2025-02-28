@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Internal distribution "
+    id="id-6f9780d23599429998ddf90748b13c8d"
+    documentation="The process associated with releasing goods for internal consumption by the organization (e.g. staff pharmacy replenishement), including among others but not exclusively, order validation with warehouse, coordination of transport and recording of material usage.&#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="05.04"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Donor Funding - Distribution Tracking "
+    id="id-636351d15e4940e3b2b994b5506c09ab"
+    documentation="The process associated with linking donor funding data with distribution activities along the supply chain and the organization's locations, including goods, services, works and assets time, place, methods and cost of distribution, as well as distribution return and compliance recording.  ">
+  <properties
+      key="Process ID"
+      value="10.04"/>
+</archimate:BusinessProcess>

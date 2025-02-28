@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aid diversion recording"
+    id="id-3da8f2597c82419e9bdb130e8cec0845"
+    documentation="The process associated with recording corformity verification for distribution in line with aid diversion avoidance policies, including among others but not exclusively, delivery and material verification, quality assurance, distribution site conformity, return and losses recording. &#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="05.07"/>
+</archimate:BusinessProcess>

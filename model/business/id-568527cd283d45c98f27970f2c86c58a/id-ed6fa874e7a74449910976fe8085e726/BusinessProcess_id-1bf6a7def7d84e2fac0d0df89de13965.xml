@@ -1,0 +1,9 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consortium Funding - Distribution to Partners Tracking "
+    id="id-1bf6a7def7d84e2fac0d0df89de13965"
+    documentation="The process associated with linking consortium funding data with distribution activities across the multiple organizations, including distrubutions costs, transports, returns for goods and/or services, works and assets.&#xD;&#xA;">
+  <properties
+      key="Process ID"
+      value="10.08"/>
+</archimate:BusinessProcess>
